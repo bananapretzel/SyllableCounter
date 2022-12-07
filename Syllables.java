@@ -7,7 +7,7 @@ import java.util.Scanner;
  * An application that will take words from a file, line by line, and produce numbers correlating to the number of
  * syllables per word.
  *
- * @author Haani Somerville, Sam Hansard, Max Petre, and Casey Cotton.
+ * @author Haani S, Sam H, Max P, and Casey C.
  */
 public class Syllables {
 
